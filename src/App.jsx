@@ -466,7 +466,7 @@ const App = () => {
   };
 
   return (
-    <div className="relative min-h-screen text-gray-300 selection:bg-cyan-400/30 selection:text-cyan-200 font-sans overflow-x-hidden bg-[#0a0a0a]">
+    <div className="relative min-h-screen text-gray-300 selection:bg-cyan-400/30 selection:text-cyan-200 font-sans overflow-x-hidden">
       <VoidBackground />
       <Navbar />
 
